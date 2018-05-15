@@ -1,9 +1,9 @@
 //
-//  ViewController.swift
+//  FormController.swift
 //  I Am Poor
 //
-//  Created by Angela Yu on 24/08/2016.
-//
+//  Created by Devin Baggett on 5/14/18.
+//  Copyright © 2018 devbaggett. All rights reserved.
 //
 
 import UIKit
